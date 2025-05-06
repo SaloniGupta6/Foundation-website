@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Foundation-website/static/css/main.68899729.css",
+    "main.js": "/Foundation-website/static/js/main.fb4f0cf0.js",
+    "static/js/453.d5ad9d8f.chunk.js": "/Foundation-website/static/js/453.d5ad9d8f.chunk.js",
+    "static/media/team1.jpg": "/Foundation-website/static/media/team1.f47c1917e03f3dceca2f.jpg",
+    "static/media/team2.jpg": "/Foundation-website/static/media/team2.99317daa837a8c9a8aa4.jpg",
+    "static/media/founder.jpg": "/Foundation-website/static/media/founder.c38e691eda96f675ecf2.jpg",
+    "static/media/logo.png": "/Foundation-website/static/media/logo.77f646e6499a8a12d927.png",
+    "index.html": "/Foundation-website/index.html",
+    "main.68899729.css.map": "/Foundation-website/static/css/main.68899729.css.map",
+    "main.fb4f0cf0.js.map": "/Foundation-website/static/js/main.fb4f0cf0.js.map",
+    "453.d5ad9d8f.chunk.js.map": "/Foundation-website/static/js/453.d5ad9d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68899729.css",
+    "static/js/main.fb4f0cf0.js"
+  ]
+}
