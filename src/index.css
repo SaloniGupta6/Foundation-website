@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "aos/dist/aos.css";
+html {
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
